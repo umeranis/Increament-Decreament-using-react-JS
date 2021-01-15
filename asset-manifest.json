@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Increament-Decreament-using-react-JS/static/css/main.7c7c7e2f.chunk.css",
+    "main.js": "/Increament-Decreament-using-react-JS/static/js/main.e75d5818.chunk.js",
+    "main.js.map": "/Increament-Decreament-using-react-JS/static/js/main.e75d5818.chunk.js.map",
+    "runtime-main.js": "/Increament-Decreament-using-react-JS/static/js/runtime-main.25510510.js",
+    "runtime-main.js.map": "/Increament-Decreament-using-react-JS/static/js/runtime-main.25510510.js.map",
+    "static/js/2.46d34852.chunk.js": "/Increament-Decreament-using-react-JS/static/js/2.46d34852.chunk.js",
+    "static/js/2.46d34852.chunk.js.map": "/Increament-Decreament-using-react-JS/static/js/2.46d34852.chunk.js.map",
+    "index.html": "/Increament-Decreament-using-react-JS/index.html",
+    "static/css/main.7c7c7e2f.chunk.css.map": "/Increament-Decreament-using-react-JS/static/css/main.7c7c7e2f.chunk.css.map",
+    "static/js/2.46d34852.chunk.js.LICENSE.txt": "/Increament-Decreament-using-react-JS/static/js/2.46d34852.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25510510.js",
+    "static/js/2.46d34852.chunk.js",
+    "static/css/main.7c7c7e2f.chunk.css",
+    "static/js/main.e75d5818.chunk.js"
+  ]
+}
